@@ -18,6 +18,8 @@ Main PCB of my Nixie clock
 <img src="images/3d_board_2.png">
 <img src="images/3d_board_3.png">
 <img src="images/3d_board_4.png">
+<img src="images/3d_board_5.png">
+<img src="images/3d_board_6.png">
 
 ## External 3D models used in the PCB render
 
