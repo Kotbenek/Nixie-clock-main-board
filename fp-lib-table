@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name WirePad)(type KiCad)(uri "/mnt/dysk_2TB/Projekty PCB nowe/Zegar Nixie v2/Nixie clock main board/SolderWirePad_1x02_P3mm_10x5")(options "")(descr ""))
+  (lib (name Toroid)(type KiCad)(uri "/mnt/dysk_2TB/Projekty PCB nowe/Zegar Nixie v2/Nixie clock main board/L_Toroid_Vertical_L30mm_P13mm")(options "")(descr ""))
+)
