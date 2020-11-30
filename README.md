@@ -4,7 +4,7 @@ Main PCB of my Nixie clock
 ## Board overview
 
 - 12V AC input
-- Rectified 12V AC output (around 16V DC, powering the [180V power supply](https://github.com/Kotbenek/180V-power-supply))
+- Rectified, smoothed 12V AC output (around 16V DC, powering the [180V power supply](https://github.com/Kotbenek/180V-power-supply))
 - ATmega32 AVR microcontroller as the heart of the Nixie clock
 - Photoresistor input for PWM Nixie tubes dimming
 - Two inputs for external buttons used for timezone setting (UTC offset): TIMEZONE- and TIMEZONE+
