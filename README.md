@@ -9,7 +9,7 @@ Main PCB of my Nixie clock
 - Photoresistor input for PWM Nixie tubes dimming
 - Two inputs for external buttons used for timezone setting (UTC offset): TIMEZONE- and TIMEZONE+
 - GPS module connector (3.3V, ground and GPS_TX line) with power on/off capability
-- 6P6C connector used for interfacing the Nixie tubes driver board
+- 6P6C connector used for interfacing the [Nixie clock tubes driver](https://github.com/Kotbenek/Nixie-clock-tubes-driver) board
 - AVR ISP connector for AVR programming
 
 ## Images

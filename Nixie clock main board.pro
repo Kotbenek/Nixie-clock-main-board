@@ -68,7 +68,7 @@ SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
-Name=Gorna
+Name=Top
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
@@ -192,7 +192,7 @@ Name=In30.Cu
 Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
-Name=Dolna
+Name=Bottom
 Type=0
 Enabled=1
 [pcbnew/Layer.B.Adhes]
