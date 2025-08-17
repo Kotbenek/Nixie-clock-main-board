@@ -1,3 +1,8 @@
+# Moved to Codeberg
+
+This repository was moved to Codeberg:
+https://codeberg.org/Kotbenek/Nixie-clock-main-board
+
 # Nixie-clock-main-board
 Main PCB of my Nixie clock
 
